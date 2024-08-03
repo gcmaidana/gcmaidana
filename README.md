@@ -6,9 +6,3 @@
 ✍️ &nbsp;In my free time, I enjoy playing games, solving [LeetCode problems](https://github.com/gcmaidana/LeetCode-Solutions/tree/main) and spending time with family.\
 ✉️ &nbsp;You can drop me an email at geanmaidana@outlook.com with a subject containing "GitHub: ..."! It will be a pleasure to talk with you!
 
-Regarding what I'm currently or planning to work on (none of these are public repos):
-- Working on a project which detects wins, losses or draws in a game of Overwatch using OpenCV and Tesseract (Current)
-- 3D Game Engine, likely in OpenGL (Planned)
-- A game written in assembly (Planned)
-
-I've gotten this question once before, so I thought I should answer it here. The reason a lot of my projects are related to games is because I find it easy to come up with ideas when it relates to games. One thing about projects is that I like them to have some level of utility, so if no one cares or likes the projects I make, at least I do, which is why I generally use games as a source for brainstorming projects. I would like to work in the games industry, but I am open to other industries as well.
