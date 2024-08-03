@@ -7,5 +7,5 @@
 ✉️ &nbsp;You can drop me an email at geanmaidana@outlook.com with a subject containing "GitHub: ..."! It will be a pleasure to talk with you!
 
 ## snake eating my contribution graph
-![snake gif](https://github.com/gcmaidana/gcmaidana/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/gcmaidana/gcmaidana/blob/output/github-contribution-grid-snake.svg)
 
